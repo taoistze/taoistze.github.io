@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "taoistze/taoistze.github.io"
+title                    : "Runze Fan/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Runze Fan"
 description              : &description "personal description"
-url                      : https://taoistze.github.io
+url                      : "https://taoistze.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taoistze/taoistze.github.io"
 
