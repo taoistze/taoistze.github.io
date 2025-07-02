@@ -2,7 +2,7 @@
 title: "Fov-GS: Foveated 3D Gaussian Splatting for Dynamic Scenes"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Fov-GS: Foveated 3D Gaussian Splatting for Dynamic Scenes
 excerpt: 'Runze Fan, Jian Wu, Xuehuai Shi, Lizhi Zhao, Qixiang Ma, Lili Wang*'
 date: 2009-10-01
 venue: 'Journal 1'
