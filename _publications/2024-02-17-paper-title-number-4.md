@@ -1,7 +1,7 @@
 ---
 title: "Real-scene-constrained virtual scene layout synthesis for mixed reality"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about scene graph matching and scene layout generation.'
 date: 2024-02-17
