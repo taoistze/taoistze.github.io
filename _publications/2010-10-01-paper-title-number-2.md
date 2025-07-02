@@ -1,10 +1,10 @@
 ---
-title: "Fov-GS"
+title: "Fov-GS: Foveated 3D Gaussian Splatting for Dynamic Scenes"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'This paper is about foveated rendering and 3D Gaussian Splatting'
+date: 2025-03-30
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
