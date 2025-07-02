@@ -22,7 +22,7 @@ repository               : "taoistze/taoistze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "runze fan.jpg"
   name             : "Runze Fan"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D student at the School of Computer Science and Engineering, Beihang University, China. "
