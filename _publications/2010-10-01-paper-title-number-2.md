@@ -3,7 +3,7 @@ title: "Fov-GS: Foveated 3D Gaussian Splatting for Dynamic Scenes"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about foveated rendering and 3D Gaussian Splatting.'
+excerpt: 'First author, published in IEEE TVCG, IEEE VR 2025 Best Paper Honorable Mention. This paper is about foveated rendering and 3D Gaussian Splatting.'
 date: 2025-03-30
 venue: #'Journal 1'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
